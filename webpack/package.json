@@ -8,7 +8,8 @@
     "build:local": "webpack",
     "build:external": "webpack --config ./external/webpack.config.js",
     "build:css": "webpack --config ./css-style-loader/webpack.config.js",
-    "build:extract:css": "webpack --config ./plugin-extract-text/webpack.config.js"
+    "build:extract:css": "webpack --config ./plugin-extract-text/webpack.config.js",
+    "build:multi": "webpack --config ./multiples-entry-points/webpack.config.js"
   },
   "keywords": [
     "webpack"
