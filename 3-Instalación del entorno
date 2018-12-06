@@ -1,0 +1,13 @@
+Instalar Node.js
+
+npm install // Para instalar npm
+
+npm init // Para iniciar el proyecto
+
+npm install webpack --save --dev // Instalacion para desarrollo
+npm i webpack webpack-cli --save-dev
+
+cliente webpack
+
+ver version de webpack
+npm list webpack

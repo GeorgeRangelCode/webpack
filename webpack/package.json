@@ -1,0 +1,17 @@
+{
+  "name": "curso-de-webpack",
+  "version": "1.0.0",
+  "description": "Este es un curso muy divertido",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "JorgeRangel",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "4.27.1"
+  }
+}
