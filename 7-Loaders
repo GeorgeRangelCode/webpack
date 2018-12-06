@@ -1,0 +1,6 @@
+los loader se cargan dentro de module
+dentro de este esta rules
+y dentor de este van los loader
+
+ahora instalamos los loader
+npm install style-loader css-loader --save-dev

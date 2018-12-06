@@ -6,7 +6,8 @@
   "scripts": {
     "build": "webpack index.js --output bundle.js --mode development",
     "build:local": "webpack",
-    "build:external": "webpack --config ./external/webpack.config.js"
+    "build:external": "webpack --config ./external/webpack.config.js",
+    "build:css": "webpack --config ./css-style-loader/webpack.config.js"
   },
   "keywords": [
     "webpack"
@@ -17,6 +18,8 @@
     "webpack": "4.27.1"
   },
   "devDependencies": {
+    "css-loader": "1.0.1",
+    "style-loader": "0.23.1",
     "webpack-cli": "3.1.2"
   }
 }
