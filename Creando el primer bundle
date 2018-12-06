@@ -1,0 +1,9 @@
+webpack entrypoint output
+
+webpack index.js bundle.js
+
+webpack index.js --output bundle.js --mode development // version 4 de webpack
+e instalar 
+npm install --save-dev webpack-cli
+
+npm run build
