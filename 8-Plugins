@@ -1,0 +1,6 @@
+Instalación de loader
+npm install --save-dev extract-text-webpack-plugin
+
+
+ExtractTextWebpack para Webpack >= 4.0.0
+npm i -D extract-text-webpack-plugin@next // Importante para version 4 usarlo
