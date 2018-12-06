@@ -1,0 +1,3 @@
+Se crea el archivo webpack.conf.js
+llamamos el archivo desde package.json
+y ejecutamos el comando  npm run build:external
