@@ -4,7 +4,8 @@
   "description": "Este es un curso muy divertido",
   "main": "index.js",
   "scripts": {
-    "build": "webpack index.js --output bundle.js --mode development"
+    "build": "webpack index.js --output bundle.js --mode development",
+    "build:local": "webpack"
   },
   "keywords": [
     "webpack"
